@@ -1,2 +1,2 @@
-# publiccodesamples
+# public
 Public Code Samples
